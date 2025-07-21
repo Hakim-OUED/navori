@@ -7,6 +7,3 @@ mv ngrok $PREFIX/bin
 chmod +x $PREFIX/bin/ngrok
 
 
-
-
-ngrok config add-authtoken 30Bht9eJgiZuFjzOZbOGVqmDVOX_5oY5BzS4
